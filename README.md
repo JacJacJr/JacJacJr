@@ -16,11 +16,11 @@
 
 | **Category**          | **Details**                                                     |
 |-----------------------|-----------------------------------------------------------------|
-| **💻 Programming:**   | Python, Bash                                                    |
-| **☁️ Infrastructure:**| Docker, Azure, Google Cloud                                     |
-| **📊 Analytics:**     | Python, Jupyter, Excel, Looker Studio                           |
-| **📓 Management:**    | Git, GitHub, GitLab, ClickUp, Jira, Confluence, Tempo           |
-| **💭 Languages:**     | English (C1), German (B2), Polish (Native)                      |
+| **�� Programming:**   | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+| **☁️ Infrastructure:**| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) |
+| **📊 Analytics:**     | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
+| **📓 Management:**    | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| **💭 Languages:**     | ![English](https://img.shields.io/badge/English-C1-blue?style=for-the-badge) ![Polish](https://img.shields.io/badge/Polish-Native-red?style=for-the-badge) |
 
 # GitHub Stats
 
