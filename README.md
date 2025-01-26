@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Jacek Jackowski
+# 👋 Hi! Let's talk, how AI can change (your) world 
 
 **Software Engineer & Consultant**
 
