@@ -12,13 +12,15 @@
 - Warsaw, Poland  
 - Jelenia Góra, Poland  
 
-## About Me** 
+## About Me
+
+| **Category**          | **Details**                                                     |
 |-----------------------|-----------------------------------------------------------------|
 | **💻 Programming:**   | Python, Bash                                                    |
 | **☁️ Infrastructure:**| Docker, Azure, Google Cloud                                     |
 | **📊 Analytics:**     | Python, Jupyter, Excel, Looker Studio                           |
 | **📓 Management:**    | Git, GitHub, GitLab, ClickUp, Jira, Confluence, Tempo           |
-| **💭 Languages:**     | English (C1), German (B2), Polish (Native)                     |
+| **💭 Languages:**     | English (C1), German (B2), Polish (Native)                      |
 
 # GitHub Stats
 
