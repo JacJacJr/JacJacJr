@@ -1,6 +1,6 @@
 # 👋 Hi! Let's talk, how AI can change (your) world 
 
-**Software Engineer & Consultant**
+**ML/AI Developer & Consultant**
 
 [![GitHub followers](https://img.shields.io/github/followers/JacJacJr?label=Follow&style=social)](https://github.com/JacJacJr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jacek-m-jackowski/details/experience/?locale=en_US)
