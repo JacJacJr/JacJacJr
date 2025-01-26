@@ -3,7 +3,7 @@
 **Software Engineer & Consultant**
 
 [![GitHub followers](https://img.shields.io/github/followers/JacJacJr?label=Follow&style=social)](https://github.com/JacJacJr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jacek-m-jackowski/details/experience/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jacek-m-jackowski/details/experience/?locale=en_US)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=JacJacJr&label=Visitors&labelColor=%231f2833&countColor=%2345a29e&style=plastic)
 
 ---
