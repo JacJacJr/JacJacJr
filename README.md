@@ -12,18 +12,18 @@
 - Warsaw, Poland  
 - Jelenia Góra, Poland  
 
-| **About Me**          |                                                                 |
+## About Me** 
 |-----------------------|-----------------------------------------------------------------|
 | **💻 Programming:**   | Python, Bash                                                    |
 | **☁️ Infrastructure:**| Docker, Azure, Google Cloud                                     |
 | **📊 Analytics:**     | Python, Jupyter, Excel, Looker Studio                           |
-| **📓 Management:**    | Git, GitHub, ClickUp, Jira, Confluence, Tempo                   |
+| **📓 Management:**    | Git, GitHub, GitLab, ClickUp, Jira, Confluence, Tempo           |
 | **💭 Languages:**     | English (C1), German (B2), Polish (Native)                     |
 
 # GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JacJacJr&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JacJacJr&show_icons=true&theme=blueberry)
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacJacJr&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacJacJr&layout=compact&theme=blueberry)
